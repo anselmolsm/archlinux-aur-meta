@@ -43,3 +43,6 @@
 [submodule "python-v4l2"]
 	path = python-v4l2
 	url = ssh+git://aur@aur.archlinux.org/python-v4l2.git
+[submodule "python-plotly-git"]
+	path = python-plotly-git
+	url = ssh+git://aur@aur.archlinux.org/python-plotly-git.git
