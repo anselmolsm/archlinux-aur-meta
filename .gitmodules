@@ -34,3 +34,9 @@
 [submodule "icu54"]
 	path = icu54
 	url = ssh+git://aur@aur.archlinux.org/icu54.git
+[submodule "python-gantt"]
+	path = python-gantt
+	url = ssh+git://aur@aur.archlinux.org/python-gantt.git
+[submodule "python-gantt-hg"]
+	path = python-gantt-hg
+	url = ssh+git://aur@aur.archlinux.org/python-gantt-hg.git
