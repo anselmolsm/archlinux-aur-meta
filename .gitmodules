@@ -7,9 +7,6 @@
 [submodule "gazebo-sitl-git"]
 	path = gazebo-sitl-git
 	url = ssh+git://aur@aur.archlinux.org/gazebo-sitl-git.git
-[submodule "python-defcon-git"]
-	path = python-defcon-git
-	url = ssh+git://aur@aur.archlinux.org/python-defcon-git.git
 [submodule "qgroundcontrol"]
 	path = qgroundcontrol
 	url = ssh+git://aur@aur.archlinux.org/qgroundcontrol.git
@@ -25,9 +22,6 @@
 [submodule "soletta-git"]
 	path = soletta-git
 	url = ssh+git://aur@aur.archlinux.org/soletta-git.git
-[submodule "trufont-git"]
-	path = trufont-git
-	url = ssh+git://aur@aur.archlinux.org/trufont-git.git
 [submodule "icu54"]
 	path = icu54
 	url = ssh+git://aur@aur.archlinux.org/icu54.git
@@ -43,6 +37,3 @@
 [submodule "python-plotly-git"]
 	path = python-plotly-git
 	url = ssh+git://aur@aur.archlinux.org/python-plotly-git.git
-[submodule "python2-robofab-git"]
-	path = python2-robofab-git
-	url = ssh+git://aur@aur.archlinux.org/python2-robofab-git.git
