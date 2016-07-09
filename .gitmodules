@@ -10,9 +10,6 @@
 [submodule "python-defcon-git"]
 	path = python-defcon-git
 	url = ssh+git://aur@aur.archlinux.org/python-defcon-git.git
-[submodule "python-robofab-git"]
-	path = python-robofab-git
-	url = ssh+git://aur@aur.archlinux.org/python-robofab-git.git
 [submodule "qgroundcontrol"]
 	path = qgroundcontrol
 	url = ssh+git://aur@aur.archlinux.org/qgroundcontrol.git
@@ -46,3 +43,6 @@
 [submodule "python-plotly-git"]
 	path = python-plotly-git
 	url = ssh+git://aur@aur.archlinux.org/python-plotly-git.git
+[submodule "python2-robofab-git"]
+	path = python2-robofab-git
+	url = ssh+git://aur@aur.archlinux.org/python2-robofab-git.git
